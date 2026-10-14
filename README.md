@@ -193,6 +193,4 @@ This project uses the UrbanSound8K dataset. Please cite the original dataset pub
 
 **Reference:** Salamon, J., Jacoby, C., and Bello, J. P. “A Dataset and Taxonomy for Urban Sound Research.” *Proceedings of the 22nd ACM International Conference on Multimedia*, 2014.
 
-## License
 
-Add a license appropriate to your intended use before distributing the repository. Check the dataset's terms separately; a repository license does not automatically grant rights to redistribute dataset files.
